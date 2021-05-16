@@ -11,4 +11,5 @@ Homework:
 
 Homework:
 - 4: 02nio/不同GC和堆内存的总结.md
-- 6: 
+- 6-1: 02nio/src/main/java/org/geekbang/u/course/homework/c02nio/HttpClientHelper.java
+- 6-2: 02nio/src/main/java/org/geekbang/u/course/homework/c02nio/OkHttpUtils.java
