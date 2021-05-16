@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>01jvm</module>
+        <module>02nio</module>
     </modules>
     <packaging>pom</packaging>
 
