@@ -33,7 +33,7 @@ public class OkHttpUtils {
     }
 
     public static void main(String[] args) throws Exception {
-        String url = "https://localhost:8081";
+        String url = "http://localhost:8801";
         String text = OkHttpUtils.getAsString(url);
         System.out.println("url: " + url + " ; response: \n" + text);
 
